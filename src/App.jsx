@@ -3,9 +3,9 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 import Home from "./Pages/Home";
-import Projects from "./pages/Projects";
-import Teams from "./pages/Teams";
-import Reports from "./pages/Reports";
+import Projects from "./Pages/Projects";
+import Teams from "./Pages/Teams";
+import Reports from "./Pages/Reports";
 import "./App.css"; // Global styles
 
 function App() {
