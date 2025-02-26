@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
-import Home from "./pages/Home";
+import Home from "./Pages/Home";
 import Projects from "./pages/Projects";
 import Teams from "./pages/Teams";
 import Reports from "./pages/Reports";
